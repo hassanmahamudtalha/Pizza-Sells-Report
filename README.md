@@ -1,5 +1,5 @@
 # Pizza-Sells-Report
-# Questions
+## Questions
 
 - Total Revenue:
 - Average Order value:
@@ -15,7 +15,7 @@
 - Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders
 - Monthly Trends for Total Revenue
  
-# Power_BI_Process_Steps :
+## Power_BI_Process_Steps :
 1. Cleaning data in power Query 
 2. Data Modelling 
 3. Calculate Using Dax
